@@ -1,6 +1,6 @@
 {
   "name": "reg-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple regex router",
   "license": "MIT",
   "repository": "lrlna/reg-router",
